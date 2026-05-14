@@ -1,4 +1,4 @@
-# 
+# Polymarket ultimate Algorithm: arbitrage-detection & API-integration is the best Polymarket algorithm, featuring arbitrage-detection and API-integration. Smart, fast, and
 
 
 
